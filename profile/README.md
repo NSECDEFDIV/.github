@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/NSECDEFDIV/.github/blob/main/collabcnidn.png" alt="COLLAB CN-IDN" />
+</p>
+
 # NUSAETIKA™ CN REDHAT
 
 **NUSAETIKA** IS *CHINA* CYBERSECURITY TEAM UNDER CDEF INDONESIA ASSOCIATION
