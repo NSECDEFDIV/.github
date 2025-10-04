@@ -21,4 +21,9 @@
 
 ---
 
-*ETHICS IN EVERY WISDOM, MEMBER MUST PRIVATE* 🔒 PREVENT 1998
+*ETHICS IN EVERY WISDOM, PRIVATE OR PUBLIC MEMBERSHIP UR CHOICE* 🔒 #PREVENT 1998
+<p align="left">
+    <b>CONTACT ADMIN:</b> 
+  <a href="mailto:xiao.bytedance@proton.me">JOIN</a> / <a href="mailto:xiao.bytedance@proton.me">FEEDBACK</a>
+</p>
+
