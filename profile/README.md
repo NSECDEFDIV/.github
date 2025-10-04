@@ -1,21 +1,20 @@
-# NUSAETIKA™ REDHAT
+# NUSAETIKA™ CN REDHAT
 
-**NusaEtika™ RedHat** is a community focused on open-source development, research, and education within the Red Hat and Linux ecosystem.  
-We emphasize **ethics, security, and collaboration** to create meaningful and responsible digital solutions.
+**NUSAETIKA** IS *CHINA* CYBERSECURITY TEAM UNDER CDEF INDONESIA ASSOCIATION
 
 ## TARGET
-- Open Source & Linux Engineering  
-- Cloud & DevOps  
-- Cyber Defense & Ethical Forensic (CDEF-ID)  
-- Education & Technology Literacy  
+- CYBERSECURITY & DIGITAL FORENSIC  
+- OPEN SOURCE & LINUX ENGINEERING  
+- CLOUD, DEVOPS & INFRASTRUCTURE SECURITY  
+- CROSS-BORDER RESEARCH & EDUCATION (CN–IDN)  
 
 ## OBJECTIVE
-1. Promote awareness of ethics in technology.  
-2. Support human resource development in Linux and open-source.  
-3. Build innovative solutions for society and industry.  
-4. Connect academics, practitioners, and the open-source community.  
+1. STRENGTHEN INTERNATIONAL COLLABORATION BETWEEN CHINA AND INDONESIA IN CYBER DEFENSE.  
+2. PROMOTE ETHICAL STANDARDS AND AWARENESS IN TECHNOLOGY AND CYBERSECURITY.  
+3. DEVELOP SKILLED HUMAN RESOURCES IN LINUX, OPEN-SOURCE, AND CYBER DEFENSE.  
+4. INNOVATE SECURE AND RESPONSIBLE DIGITAL SOLUTIONS FOR SOCIETY AND INDUSTRY.  
+5. BUILD STRONG CONNECTIONS AMONG ACADEMICS, PRACTITIONERS, AND THE OPEN-SOURCE COMMUNITY.  
 
 ---
 
-*Ethics in every line of code, Member must private* 🔒
-
+*ETHICS IN EVERY WISDOM, MEMBER MUST PRIVATE* 🔒 PREVENT 1998
